@@ -1,6 +1,9 @@
 # Tic-tac-toe with AI
 
+Testing (hello from @ktravers, engineer at Flatiron School 👋)
+
 ## Objectives
+
 1. Build a command-line interface (CLI).
 2. Create a domain model with multiple relating and collaborating objects.
 
